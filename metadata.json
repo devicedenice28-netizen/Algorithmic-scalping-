@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix SPEAKING HAND AI TRADER",
+  "description": "SPEAKING HAND AI TRADER - MetaTrader 5 algorithmic forex bot simulator and strategy tester powered by EMA Crossover and RSI with real-time chart replay, risk management, and drawdown analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
